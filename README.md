@@ -1,3 +1,3 @@
 # pullRequestEnAccion
 
-Emoji de cara feliz: 😭
+Emoji de cara feliz: 😊
